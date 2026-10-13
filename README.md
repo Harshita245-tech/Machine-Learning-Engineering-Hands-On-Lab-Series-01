@@ -274,5 +274,4 @@ The project strengthened practical understanding of preprocessing pipelines, mod
 ---
 
 
-**Designation:** Data Engineering Trainee  
-**Project:** Machine Learning Engineering – Hands-On Lab Series 01
+
